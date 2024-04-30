@@ -1,0 +1,1 @@
+$$y_{t,p} = \beta _0 + \beta _1*Post + \beta _2*Treat + \beta _3*(Post*Treat)$$
